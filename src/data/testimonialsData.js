@@ -11,45 +11,25 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+        name: 'Matthew Linder',
+        title: 'Full Stack Developer and Technical Content Specialist',
+        text: "Emily picks up new technologies quickly, has great problem solving skills, and always has a great attitude. Moreover, she’s a hard worker, and can be counted on to work through issues and adhere to schedules. I’m very grateful she was on my team for the group project, and I highly recommend her.",
         image: boy2
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
+        name: 'Scott Lawan',
+        title: 'Libraries Web Applications Developer',
+        text: "Working with Emily over the past six months in the University of California, Davis Coding Bootcamp was an enlightening experience. Emily is incredibly talented, curious, and is always willing to put in the extra effort to solve a problem. Emily’s patience and empathy make her a valuable team member who would make a great addition to any project!",
+        image: boy3
     },
     {
         id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
+        name: 'Barbara Collins',
+        title: 'Energy Consultant',
+        text: "In my years of mentorship Emily stands out as one of the best people I’ve worked with. I was very impressed with how quickly Emily was able to grasp concepts that were new to her. She has great energy and passion, she is always eager to learn more.",
         image: girl1
     },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
-        image: boy1
-    },
-    {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
-    },
-    {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
-    }
+
 ]
 
