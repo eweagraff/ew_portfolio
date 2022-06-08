@@ -1,23 +1,17 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'University of California, Davis',
+        course: 'Certificate in Full-Stack Web Development',
+        startYear: 'March 2021',
+        endYear: 'September 2021'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
+        institution: 'California State University, San Marcos',
+        course: 'Bachelor of Science, Kinesiology',
+        startYear: '2007',
+        endYear: '2007'
+    }
+  
 ]
