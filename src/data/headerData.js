@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Ew_resume.pdf'
+import resume from '../assets/pdf/EmilyWeagraff-Resume.pdf'
 import image from '../assets/png/face.png'
 
 export const headerData = {
