@@ -1,6 +1,7 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
+import four from '../assets/svg/projects/four.svg'
 
 export const projectsData = [
     {
@@ -30,6 +31,16 @@ export const projectsData = [
         demo: 'https://vasylynash.github.io/FEEL/',
         image: three
     },
+
+    {
+        id: 4,
+        projectName: 'Weather Application',
+        projectDesc: 'Open-source weather application that can check current temperature in selected city',
+        tags: [ 'HTML/CSS, Javascript,GitHub, 3rd Party API’s, Trello'],
+        code: 'https://github.com/eweagraff/vanilla-weather-app',
+        demo: 'https://eweagraff.github.io/vanilla-weather-app/',
+        image: four
+    }
 
   
 ]
